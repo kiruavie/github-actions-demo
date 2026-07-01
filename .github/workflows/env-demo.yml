@@ -3,7 +3,7 @@ name: Environment Vareiable Demo
 on: [push]
 
 env:
-  GREETING: "Hi"
+  GREETING: "YOYO"
 
 jobs:
   print-greeting:
