@@ -1,4 +1,4 @@
-name: Environment Vareiable Demo
+name: Environment Variable Demo
 
 on: [push]
 
